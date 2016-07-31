@@ -1,0 +1,58 @@
+{
+  "room": "MoosicIsTheAnswer",
+  "author": "Ec31",
+  "icon": null,
+  "css": "http://myjson.com/",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": true,
+    "forceSmartVote": false
+  },
+  "ccc": {
+    "admin": null,
+    "ambassador": null,
+    "host": "#2ac0fb",
+    "cohost": "#2ac0fb",
+    "manager": "#0061B7",
+    "bouncer": "#00CBBD",
+    "rdj": "#14AA00",
+    "subscriber": null,
+    "silversubscriber": null,
+    "friend": "#905BA1",
+    "user": null
+  },
+  "images": {
+    "background": "http://i.imgur.com/9DVTnnW.png",
+    "playback": null,
+    "admin": "https://dl.dropboxusercontent.com/s/ot6uurwqvatjkno/Admin.png",
+    "ambassador": "https://dl.dropboxusercontent.com/s/1cdb2tzmn7jp5et/BA.png",
+    "host": "https://dl.dropboxusercontent.com/s/c3jpoidf821pltu/Wolf.png",
+    "cohost": "https://dl.dropboxusercontent.com/s/6jnyc1wdj4jw3ff/Cube.png",
+    "manager": "https://dl.dropboxusercontent.com/s/mncknfm9ufh0no2/Manager.png",
+    "bouncer": "https://dl.dropboxusercontent.com/s/5io1y2qcvnsi4p0/Bouncer.png",
+    "rdj": "https://dl.dropboxusercontent.com/s/oo198lxbb7iuyhn/Res.png",
+    "subscriber": "https://dl.dropboxusercontent.com/s/qgjp1tf8yx2fqaf/Sub.png",
+    "silversubscriber": "https://dl.dropboxusercontent.com/s/ix0gwve0k4i21op/SilverSub.png"
+  },
+  "autocomplete": [
+
+  ],
+  "emotes": {
+    "droptv": "https://dl.dropboxusercontent.com/s/wvk9b6djfjm3xuf/DropTv.png",
+    "4Head": "https://static-cdn.jtvnw.net/emoticons/v1/354/1.0",
+    "Kappa": "https://static-cdn.jtvnw.net/emoticons/v1/25/1.0",
+    "BabyRage": "https://static-cdn.jtvnw.net/emoticons/v1/22639/1.0",
+    "BibleThump": "https://static-cdn.jtvnw.net/emoticons/v1/86/1.0",
+    "CoolCat": "https://static-cdn.jtvnw.net/emoticons/v1/58127/1.0",
+    "CorgiDerp": "https://static-cdn.jtvnw.net/emoticons/v1/49106/1.0",
+    "DAESuppy": "https://static-cdn.jtvnw.net/emoticons/v1/973/1.0",
+    "OhMyDog": "https://static-cdn.jtvnw.net/emoticons/v1/81103/1.0",
+    "WutFace": "https://static-cdn.jtvnw.net/emoticons/v1/28087/1.0",
+    "YouWHY": "https://static-cdn.jtvnw.net/emoticons/v1/4337/1.0"
+  }
+}
