@@ -29,15 +29,15 @@
   "images": {
     "background": "http://i.imgur.com/9DVTnnW.png",
     "playback": null,
-    "admin": "https://cdn3.iconfinder.com/data/icons/gray-user-toolbar/512/oficcial-512.png",
-    "ambassador": "https://dl.dropboxusercontent.com/s/1cdb2tzmn7jp5et/BA.png",
+    "admin": "http://icons.iconarchive.com/icons/hektakun/pokemon/16/151-Mew-icon.png",
+    "ambassador": "http://icons.iconarchive.com/icons/hektakun/pokemon/16/251-Celebi-icon.png",
     "host": "http://icons.iconarchive.com/icons/hektakun/pokemon/16/150-Mewtwo-icon.png",
-    "cohost": "http://icons.iconarchive.com/icons/hektakun/pokemon/16/150-Mewtwo-icon.png",
-    "manager": "https://dl.dropboxusercontent.com/s/mncknfm9ufh0no2/Manager.png",
-    "bouncer": "https://dl.dropboxusercontent.com/s/5io1y2qcvnsi4p0/Bouncer.png",
-    "rdj": "https://dl.dropboxusercontent.com/s/oo198lxbb7iuyhn/Res.png",
-    "subscriber": "https://dl.dropboxusercontent.com/s/qgjp1tf8yx2fqaf/Sub.png",
-    "silversubscriber": "https://dl.dropboxusercontent.com/s/ix0gwve0k4i21op/SilverSub.png"
+    "cohost": "http://icons.iconarchive.com/icons/hektakun/pokemon/16/250-Ho-oh-icon.png",
+    "manager": "http://icons.iconarchive.com/icons/hektakun/pokemon/16/130-Gyarados-icon.png",
+    "bouncer": "http://icons.iconarchive.com/icons/hektakun/pokemon/16/143-Snorlax-icon.png",
+    "rdj": "http://icons.iconarchive.com/icons/hektakun/pokemon/16/016-Pidgey-icon.png",
+    "subscriber": "http://www.serebii.net/games/balls/masterball.png",
+    "silversubscriber": "http://www.serebii.net/games/balls/pokeball.png"
   },
   "autocomplete": [
 
