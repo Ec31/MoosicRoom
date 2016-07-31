@@ -2,7 +2,7 @@
   "room": "MoosicIsTheAnswer",
   "author": "Ec31",
   "icon": null,
-  "css": "http://myjson.com/",
+  "css": "https://github.com/Ec31/MoosicRoom/blob/master/roomSettings.json",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot": true,
