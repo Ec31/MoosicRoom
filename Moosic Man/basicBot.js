@@ -2300,7 +2300,7 @@
                                     }
                                     )
                             }
-                            var api_key = "dc6zaTOxFJmzC"; // public beta key
+                            var api_key = "Uk4mrrS9MGeOs"; // public beta key
                             var rating = "pg-13"; // PG 13 gifs
                             var tag = msg.substr(cmd.length + 1);
                             var fixedtag = tag.replace(/ /g,"+");
